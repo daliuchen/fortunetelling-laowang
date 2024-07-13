@@ -1,0 +1,15 @@
+fastapi
+langchain
+langchain-community
+langsmith
+langchain_openai
+redis
+qdrant_client
+uvicorn
+google-search-results
+azure-cognitiveservices-speech
+pydub
+telebot
+redis
+qrcode
+Pillow
